@@ -1,6 +1,5 @@
 # Hi There 👋
-![Hi There](https://github.com/91Pixels/91Pixels/blob/main/welcome1.png?raw=true)
-
+![Hi There](https://github.com/91Pixels/91Pixels/blob/main/pictures.jpg?raw=true)
 
 ![Profile views](https://gpvc.arturio.dev/91Pixels)  
 
