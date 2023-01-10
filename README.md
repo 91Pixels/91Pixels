@@ -1,4 +1,8 @@
-# Hi There 👋
+# Hi, my name is ⚡
+Michael A. Camacho.
+Test Automation Engineer
+and I work as a Test Automation Engineer in Web Scraping and SaaS projects. As a passionate about testing and programming, I dedicate part of my time to research and write about software development and software quality on this website, as well as sharing my projects. 
+
 ![Hi There](https://github.com/91Pixels/91Pixels/blob/main/pictures.jpg?raw=true)
 
 ![Profile views](https://gpvc.arturio.dev/91Pixels)  
