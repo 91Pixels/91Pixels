@@ -1,5 +1,5 @@
 # Hi, my name is ⚡
-Michael A. Camacho.
+Michael A. Camacho-->
 QA Tester - SDET
 and I work as a Test Automation Engineer in Web Scraping and SaaS projects. As a passionate about testing and programming, I dedicate part of my time to research and write about software development and software quality on this website, as well as sharing my projects. 
 
