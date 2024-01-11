@@ -4,7 +4,6 @@
 I specialize in Web Scraping and SaaS projects. As an enthusiast in testing and programming, I spend time researching and writing about software development and quality assurance. Follow my journey and projects here!
 
 ![Hi There](https://github.com/91Pixels/91Pixels/blob/main/pictures.jpg?raw=true)
-![Profile views](https://gpvc.arturio.dev/91Pixels)
 
 ---
 
