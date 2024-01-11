@@ -41,4 +41,4 @@ I specialize in Web Scraping and SaaS projects. As an enthusiast in testing and 
 ## My GitHub Stats 📈
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=91Pixels&show_icons=true&count_private=true)  
-![GitHub metrics](https://metrics.lecoq.io/91Pixels)  
+
